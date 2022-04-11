@@ -1,8 +1,52 @@
 body {
-    background-color: rgb(253, 251, 251)
+    background-color: rgb(253, 251, 251);
+    margin: 0cm;
 }
 
 header {
     top: 0px;
     position: fixed;
+    display: inline-block;
+    background-color: aqua;
+    width: max-content;
+    padding: 20px 480px 20px;
+    align-content: center;
+}
+
+#minha_foto {
+    position: absolute;
+    top: 130px;
+    width: 200px;
+    margin-left: 5px;
+}
+
+#text {
+    position: absolute;
+    top: 350px;
+    display: block;
+    margin: 10px;
+}
+
+#rodape {
+    position: relative;
+    padding: 20px 500px;
+}
+
+#text2 {
+    position: absolute;
+    right: 200px;
+    display: inline-block;
+    top: 400px;
+    margin: 10px;
+}
+
+#licoes_aprendidas {
+    position: absolute;
+    top: 465px;
+}
+
+#licoes_a_aprender {
+    position: absolute;
+    top: 465px;
+    left: 310px;
 }
