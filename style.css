@@ -9,7 +9,7 @@ body {
     display: inline-block;
     background-color: aqua;
     width: max-content;
-    padding: 20px 480px 20px;
+    padding: 20px 480px;
     align-content: center;
 }
 
@@ -52,9 +52,9 @@ body {
 }
 
 #navigation {
-    align-content: center;
-    position: absolute;
-    top: 100px;
-    display: inline-block;
-    right: 100px;
+   align-content: center;
+   position: absolute;
+   top: 100px;
+   display: inline-block;
+   right: 100px;
 }
